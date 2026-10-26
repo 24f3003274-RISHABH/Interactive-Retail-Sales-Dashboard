@@ -9,11 +9,17 @@ An interactive, multi-dimensional web application built with Python and **Stream
 * **Segment Analysis Profile:** Direct comparison matrices isolating structural volume distributions across individual business branches (A, B, C).
 * **Ingested Transaction Log Grid:** Integrated tabular data viewer showing underlying raw transaction data entries on demand.
 
-## 📊 Dashboard Interface Canvas
+## 📊 Dashboard Interface Previews
 
-Below is the live operational layout of the web application dashboard showing dynamic tracking summaries and interactive plotting widgets:
+### 1. Operations Canvas Layout
+Main dashboard screen highlighting high-level operational key performance indicators alongside primary time-series and segment visual analytics layers.
 
-![Supermarket Sales Web Dashboard](Dashboard_1.png)
+![Supermarket Sales Web Dashboard Overview](Dashboard_1.png)
+
+### 2. Analytical Reporting Interface
+Secondary view mapping expanded distributions and metrics parsed out by city groupings and target profile subsets.
+
+![Supermarket Sales Alternate Analytics View](Dashboard_2.png)
 
 ## 🛠️ Environment Configuration & Deployment
 
